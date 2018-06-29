@@ -12,3 +12,12 @@ python train.py --path0 {"読み込みたい画像セットAのパス"} --path1 
 ```
 python train.py --path0 {"読み込みたい画像セットAのパス"} --path1 {"読み込みたい画像セットBのパス"} --image
 ```
+
+### ランダムに生成した画像
+<img src="https://raw.githubusercontent.com/hukuda222/ImageRecognition/master/result/input_image.png" width="200"/>
+
+### 位置の推定画像
+<img src="https://raw.githubusercontent.com/hukuda222/ImageRecognition/master/result/output_image.png" width="200"/>
+
+### 理想的な推定画像
+<img src="https://raw.githubusercontent.com/hukuda222/ImageRecognition/master/result/ideal_image.png" width="200"/>
