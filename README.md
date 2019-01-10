@@ -1,4 +1,8 @@
 # ImageRecognition
+
+2018年度 PFNサマーインターンシップの選考課題、chianer/問題2を解いたものです。
+https://github.com/pfnet/intern-coding-tasks/tree/master/2018/chainer
+
 画像に埋め込まれている別の画像を検出するものです、
 2つの画像セットから、画像の一部に別の画像を埋め込んだものを学習データとしています。
 
